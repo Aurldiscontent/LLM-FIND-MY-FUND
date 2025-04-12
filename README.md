@@ -1,4 +1,3 @@
-# 04VICTORYVORTEX
 Find My Funds is an intelligent mutual fund search engine that helps users find the most relevant mutual funds based on natural language queries like:
 
 "Show me tax-saving funds"
