@@ -8,27 +8,15 @@ The model uses natural language understanding and semantic search to match user 
 
 🚀 Features
 🔍 Smart Search: Understands the meaning behind queries, not just keywords.
-
 🧠 Embeddings with Sentence Transformers: Converts text into vectors for comparison.
-
 ⚡ Fast Searching: Uses FAISS (Facebook AI Similarity Search) for quick lookup.
-
 🛠️ Intent Detection: Automatically filters based on user needs like tax-saving, high returns, etc.
-
 💾 Persistent Embeddings: Saves & loads preprocessed data to avoid re-computation.
-
-🧰 Tech Stack
-Python
+🧰 Tech Stack Python
 
 Pandas
-
 SentenceTransformers (for embeddings)
-
 FAISS (for fast nearest-neighbor search)
-
 Scikit-learn
-
 Regex (for keyword-based intent detection)
-
-This is the link to my UI for the same project - 
-https://llm-mutual-fund-finder.lovable.app/ -
+This is the link to my UI for the same project - https://llm-mutual-fund-finder.lovable.app/ -
