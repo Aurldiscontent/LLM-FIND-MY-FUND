@@ -16,7 +16,7 @@ The model uses natural language understanding and semantic search to match user 
 
 Pandas
 SentenceTransformers (for embeddings)
-FAISS (for fast nearest-neighbor search)
+FAISS (for fast nearest-neighbour search)
 Scikit-learn
 Regex (for keyword-based intent detection)
-This is the link to my UI for the same project - https://llm-mutual-fund-finder.lovable.app/ -
+This is the link to my UI for the same project - https://llm-mutual-fund-finder.lovable.app/
